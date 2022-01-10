@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992685765865",
+    "project_id": "migration-of-birds-17395595",
+    "storage_bucket": "migration-of-birds-17395595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992685765865:android:b3f1354b196c338b506c78",
+        "android_client_info": {
+          "package_name": "com.SaikouGames.MigrationOfBirds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992685765865-mcc55h39a9ntacmae8nhjor0ab9fgauv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOibxRcc8OiQfWDaZ5GNxG6xuQH5c3mhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992685765865-mcc55h39a9ntacmae8nhjor0ab9fgauv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
